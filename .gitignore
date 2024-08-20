@@ -1,0 +1,15 @@
+.terraform/
+.terraform.d/
+passwd
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.tfstate
+.aws/
+terraform.tfstate.backup
+.config/
+.cache/
+.ansible/
+node_modules/
+.npm/
+package-lock.json
+.ssh/
